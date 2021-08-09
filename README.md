@@ -32,6 +32,6 @@ Development ideas, feature requests, bug reports and further exercises are warml
 To contribute, see our [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst).
 
 
-##Exercise example
+## Exercise example
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Damc2/cms-jupyter-materials-english/master?filepath=Exercises-with-open-data%2FBasics%2FCalculate-invariant-mass.ipynb)
