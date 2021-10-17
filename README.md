@@ -35,3 +35,6 @@ To contribute, see our [Contributing guide](https://github.com/cms-opendata-educ
 ## Exercise example
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Damc2/cms-jupyter-materials-english/master?filepath=Exercises-with-open-data%2FBasics%2FCalculate-invariant-mass.ipynb)
+
+
+https://hub.gke2.mybinder.org/user/damc2-high-school-project-8xhwxpxg/doc/tree/Exercises-with-open-data/Hunting-the-Higgs-4leptons-Copy1.ipynb
