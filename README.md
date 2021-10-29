@@ -34,6 +34,6 @@ To contribute, see our [Contributing guide](https://github.com/cms-opendata-educ
 
 ## Presentazione CERN OPEN DATA - Scoperta del Bosone di Higgs
 
-[![Binder](https://hub.gke2.mybinder.org/user/damc2-high-school-project-r5f0jhe6/doc/tree/Scoperta_del_bosone_di_Higgs.ipynb)
+[![Binder](https://hub.gke2.mybinder.org/user/damc2-high-school-project-r5f0jhe6/doc/tree/Scoperta_del_bosone_di_Higgs.ipynb)]
 
 
