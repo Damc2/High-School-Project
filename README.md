@@ -32,9 +32,8 @@ Development ideas, feature requests, bug reports and further exercises are warml
 To contribute, see our [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst).
 
 
-## Exercise example
+## Presentazione CERN OPEN DATA - Scoperta del Bosone di Higgs
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Damc2/cms-jupyter-materials-english/master?filepath=Exercises-with-open-data%2FBasics%2FCalculate-invariant-mass.ipynb)
+[![Binder](https://hub.gke2.mybinder.org/user/damc2-high-school-project-r5f0jhe6/doc/tree/Scoperta_del_bosone_di_Higgs.ipynb)
 
 
-https://hub.gke2.mybinder.org/user/damc2-high-school-project-8xhwxpxg/doc/tree/Exercises-with-open-data/Hunting-the-Higgs-4leptons-Copy1.ipynb
